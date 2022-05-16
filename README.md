@@ -15,3 +15,10 @@
   <tr><th>Title</th>          <th>Path</th></tr>
   <tr><td>BbyStealer</td>     <td><a href="https://github.com/xUnknown433/DiscordProtector/blob/main/chapters/BbyStealer.md">Link</a></td></tr>
 </table>
+
+<h1 align="center">Softwares</h1>
+
+<table align="center">
+  <tr><th>Title</th>          <th>Path</th></tr>
+  <tr><td>DiscordAntiInjection</td>     <td><a href="https://github.com/n3k0girl/DiscordAntiInjection">Link</a></td></tr>
+</table>
