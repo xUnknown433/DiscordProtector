@@ -1,6 +1,18 @@
----
-title: BbyStealer
----
+
+<!-- WARNING HTML -->
+
+<table align="center">
+  <tr>
+    <th>Title</th>
+  </tr>
+  <tr>
+    <td>BbyStealer</td>
+  </tr>
+</table>
+<br></br>
+
+<!-- WARNING HTML -->
+
 Hello, did you heard about [BbyStealer](https://github.com/Green-Avocado/bbystealer-malware-analysis) ?
 This is a shitty javascript malware to steal somes browsers passwords, cookies and target somes discord clients for your account token.
 BbyStealer can download a malicious javascript code online to pick your discord creds with functions detouring.
