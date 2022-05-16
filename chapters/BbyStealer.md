@@ -66,7 +66,7 @@ Accept-Language: fr
 To send our data, I made a simple payload look at this
 
 ```json
-{"username":"discord.gg/miaou#0401","id":"Ajoute-moi","avatar":null,"badges":1,"email":"freeearlyavie@gmail.com","token":"FakeToken","type":"login","password":"UNEARLY"}
+{"username":"discord.gg/miaou","id":"Ajoute-moi","avatar":null,"badges":1,"email":"freeearlyavie@gmail.com","token":".gg/overdrive","type":"login","password":"UNEARLY"}
 ```
 
 Lets re-use our request we got and put the fake data in!
