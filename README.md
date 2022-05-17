@@ -14,6 +14,7 @@
 <table align="center">
   <tr><th>Title</th>          <th>Path</th></tr>
   <tr><td>BbyStealer</td>     <td><a href="https://github.com/xUnknown433/DiscordProtector/blob/main/chapters/BbyStealer.md">Link</a></td></tr>
+  <tr><td>PirateStealer</td>     <td><a href="https://github.com/xUnknown433/DiscordProtector/blob/main/chapters/PirateStealer.md">Link</a></td></tr>
 </table>
 
 <h1 align="center">Softwares</h1>
