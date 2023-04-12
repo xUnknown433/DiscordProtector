@@ -22,6 +22,8 @@
 <table align="center">
   <tr><th>Title</th>          <th>Path</th></tr>
   <tr><td>DiscordAntiInjection</td>     <td><a href="https://github.com/n3k0girl/DiscordAntiInjection">Link</a></td></tr>
+  <tr><td>NexeDecompiler</td>     <td><a href="https://github.com/DiscordSaver/nexe-decompiler">Link</a></td></tr>
+  <tr><td>Pyuntrxctor</td>     <td><a href="https://gist.github.com/n3k0girl/79c18900b6a0c5b83c7d62de5173ccca">Link</a></td></tr>
 </table>
 
 <h1 align="center">Known Discord stealers</h1>
